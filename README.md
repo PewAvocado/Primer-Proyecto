@@ -8,3 +8,5 @@ Nuevamente, debo probar cosas.
 Entonces, he deducido que debo seguir el orden que tengo en mi propio excel.
 
 Primero debo de usar el git add., luego git status, luego git commit -m, luego git status, luego git push, y de ahi revisar todo.
+
+Quiero verificar cuantos comandos puedo hacer y que mi cmd tenga muchos.
