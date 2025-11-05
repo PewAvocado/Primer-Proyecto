@@ -10,3 +10,5 @@ Entonces, he deducido que debo seguir el orden que tengo en mi propio excel.
 Primero debo de usar el git add., luego git status, luego git commit -m, luego git status, luego git push, y de ahi revisar todo.
 
 Quiero verificar cuantos comandos puedo hacer y que mi cmd tenga muchos.
+
+Entonces, he concluido que debo de practicar los git mucho mas seguidos, pero sigo sin entender al 100% como usar bien los commit.
