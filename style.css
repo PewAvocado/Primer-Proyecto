@@ -1,0 +1,16 @@
+.titulo{
+    color: red;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.comidas{
+    color: yellow;
+    background-color: aqua;
+}
+
+.uno{
+    font-weight: bold;
+    color: hsl(240, 65%, 49%);
+}
