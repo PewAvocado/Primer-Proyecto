@@ -12,3 +12,6 @@ Primero debo de usar el git add., luego git status, luego git commit -m, luego g
 Quiero verificar cuantos comandos puedo hacer y que mi cmd tenga muchos.
 
 Entonces, he concluido que debo de practicar los git mucho mas seguidos, pero sigo sin entender al 100% como usar bien los commit.
+
+07/11/2025
+Despues de un par de dias, ya entendi bien como funcionan los commit, aunque quizas deba de mejorar la calidad de mensajes que pongo. Seguire mejorando en eso de forma diaria.
