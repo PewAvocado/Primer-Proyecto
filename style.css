@@ -14,3 +14,20 @@
     font-weight: bold;
     color: hsl(240, 65%, 49%);
 }
+.dos{
+    color: hsl(49, 59%, 45%);
+    font-weight: bold;
+    background-color: rgb(172, 100, 100);
+    
+}
+.btn{
+    margin: 20px;
+    border: 2px black solid;
+}
+
+.btn:hover{
+    color:rgb(51, 160, 65)
+}
+.btn:active{
+    color: black;
+}
