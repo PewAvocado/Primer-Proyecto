@@ -17,7 +17,7 @@
 .dos{
     color: hsl(49, 59%, 45%);
     font-weight: bold;
-    background-color: rgb(172, 100, 100);
+    background-color: rgb(223, 212, 212);
     
 }
 .btn{
@@ -30,4 +30,17 @@
 }
 .btn:active{
     color: black;
+}
+.tres{
+    display: flex;
+    border: solid 1px black;
+    padding: 20px;
+    margin: 10px;
+    justify-content: space-between;
+}
+.hijo{
+    border: 1px solid black;
+    margin: 6px;
+    padding: 5px;
+    
 }
