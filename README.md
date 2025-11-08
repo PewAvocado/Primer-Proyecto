@@ -15,3 +15,6 @@ Entonces, he concluido que debo de practicar los git mucho mas seguidos, pero si
 
 07/11/2025
 Despues de un par de dias, ya entendi bien como funcionan los commit, aunque quizas deba de mejorar la calidad de mensajes que pongo. Seguire mejorando en eso de forma diaria.
+
+08/11/2025
+Un repaso de rutina, nada importante, probar mas el css.
