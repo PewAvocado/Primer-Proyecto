@@ -18,3 +18,6 @@ Despues de un par de dias, ya entendi bien como funcionan los commit, aunque qui
 
 08/11/2025
 Un repaso de rutina, nada importante, probar mas el css.
+
+11/11/2025
+Empieza el repaso basico de js.
