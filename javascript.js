@@ -3,10 +3,7 @@ let age = 27;
 
 console.log(name + " has " + age + " years old ");
 
-const helloWorld = require('./helloWorld');
+const apellido = "Ruiz";
+const año = 2025;
 
-describe('Hello World', function() {
-  test('says "Hello, World!"', function() {
-    expect(helloWorld()).toEqual('Hello, World!');
-  });
-});
+let alive = true;
