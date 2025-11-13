@@ -24,3 +24,6 @@ Empieza el repaso basico de js.
 
 12//11/2025
 Hice un poco mas de js, pero en otro archivo, mas repaso, ademas intente aprender algo en developer tools.
+
+13/11/2025
+Repasare algo mas de js, intentando hacer rutina de funciones, para nunca olvidar la sintaxis de estas.
