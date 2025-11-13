@@ -21,3 +21,6 @@ Un repaso de rutina, nada importante, probar mas el css.
 
 11/11/2025
 Empieza el repaso basico de js.
+
+12//11/2025
+Hice un poco mas de js, pero en otro archivo, mas repaso, ademas intente aprender algo en developer tools.
