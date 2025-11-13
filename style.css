@@ -42,5 +42,9 @@
     border: 1px solid black;
     margin: 6px;
     padding: 5px;
-    
+}
+.siete{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(67, 165, 54);
 }
