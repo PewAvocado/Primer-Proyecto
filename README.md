@@ -27,3 +27,6 @@ Hice un poco mas de js, pero en otro archivo, mas repaso, ademas intente aprende
 
 13/11/2025
 Repasare algo mas de js, intentando hacer rutina de funciones, para nunca olvidar la sintaxis de estas.
+
+14/11/2025
+Mas repaso de funciones, ademas de avanzar un poco la solucion de problemas.
