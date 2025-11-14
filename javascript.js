@@ -28,3 +28,8 @@ let division = function (a, b){
     console.log(a/b);
 };
 division(30, 5);
+
+function magia(hechizo){
+    console.log("Acabas de castear " + hechizo);
+}
+magia("bombarda");
