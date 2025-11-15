@@ -33,3 +33,6 @@ function magia(hechizo){
     console.log("Acabas de castear " + hechizo);
 }
 magia("bombarda");
+
+magia ("expelliermus");
+magia("ABADA KEDABRA");
