@@ -30,3 +30,6 @@ Repasare algo mas de js, intentando hacer rutina de funciones, para nunca olvida
 
 14/11/2025
 Mas repaso de funciones, ademas de avanzar un poco la solucion de problemas.
+
+15/11/2025
+Registro diario
