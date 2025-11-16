@@ -33,3 +33,6 @@ Mas repaso de funciones, ademas de avanzar un poco la solucion de problemas.
 
 15/11/2025
 Registro diario
+
+16//11/2025
+Registro diariooooo
