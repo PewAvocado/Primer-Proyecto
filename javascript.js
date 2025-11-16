@@ -36,3 +36,6 @@ magia("bombarda");
 
 magia ("expelliermus");
 magia("ABADA KEDABRA");
+
+magia("CRUCIO");
+magia("IMPERIO");
