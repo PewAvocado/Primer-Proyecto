@@ -39,3 +39,11 @@ magia("ABADA KEDABRA");
 
 magia("CRUCIO");
 magia("IMPERIO");
+
+const once = document.querySelector("#once");
+const eleven = document.createElement("p");
+
+eleven.textContent = "Dia 11, ahora usando el dom";
+eleven.classList.add("siete");
+
+once.appendChild(eleven);
