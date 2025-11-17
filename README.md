@@ -36,3 +36,6 @@ Registro diario
 
 16//11/2025
 Registro diariooooo
+
+17/11/2025
+Nuevo registro diario, ahora trabajaremos con algo extra de dom
