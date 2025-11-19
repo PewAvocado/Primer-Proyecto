@@ -42,8 +42,12 @@ magia("IMPERIO");
 
 const once = document.querySelector("#once");
 const eleven = document.createElement("p");
-
 eleven.textContent = "Dia 11, ahora usando el dom";
 eleven.classList.add("siete");
-
 once.appendChild(eleven);
+
+const doce = document.querySelector("#doce");
+const twelve = document.createElement("p");
+twelve.textContent = "Dia 12, sigo usando DOM, quizas olvide un ida xd";
+twelve.classList.add("twelve");
+doce.appendChild(twelve);
