@@ -39,3 +39,6 @@ Registro diariooooo
 
 17/11/2025
 Nuevo registro diario, ahora trabajaremos con algo extra de dom
+
+19/11/2025
+Crei que si habia hacho el dia anterior, raro la verdad, pero bueno
