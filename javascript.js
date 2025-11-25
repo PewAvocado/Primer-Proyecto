@@ -51,3 +51,8 @@ const twelve = document.createElement("p");
 twelve.textContent = "Dia 12, sigo usando DOM, quizas olvide un ida xd";
 twelve.classList.add("twelve");
 doce.appendChild(twelve);
+
+const trece = querySelector("#trece");
+const thirteen = document.createElement("p");
+thirteen.textContent = "Dia 13, aunque me sale varios dias, ya estoy algo mas de vuelta";
+trece.appendChild(thirteen);
