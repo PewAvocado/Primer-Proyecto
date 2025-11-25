@@ -42,3 +42,6 @@ Nuevo registro diario, ahora trabajaremos con algo extra de dom
 
 19/11/2025
 Crei que si habia hacho el dia anterior, raro la verdad, pero bueno
+
+24/11/2025
+Estuve ocupado, pero ahora solo hare cosas de rutina, para recordar mas todo.
