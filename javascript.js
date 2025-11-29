@@ -56,3 +56,8 @@ const trece = querySelector("#trece");
 const thirteen = document.createElement("p");
 thirteen.textContent = "Dia 13, aunque me sale varios dias, ya estoy algo mas de vuelta";
 trece.appendChild(thirteen);
+
+const catorce = querySelector('#catorce');
+const fourteen = document.createElement("h3");
+fourteen.textContent = "Dia catorce, me he saltado varios porque ya no veo neccesaria esta rutina, pero intentare seguir";
+catorce.appendChild(fourteen);
