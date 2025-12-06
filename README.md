@@ -45,3 +45,6 @@ Crei que si habia hacho el dia anterior, raro la verdad, pero bueno
 
 24/11/2025
 Estuve ocupado, pero ahora solo hare cosas de rutina, para recordar mas todo.
+
+05/12/2025
+Hubieron 2 dias donde olvide registrar, pero aun asi, debi de hacerlo, me volvi muy flojo con este estudio personal pero espero retomarlo pronto, al menos hacer estas adiciones diarias, solo para reforzar todo.
