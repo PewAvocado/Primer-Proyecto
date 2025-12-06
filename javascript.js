@@ -52,12 +52,17 @@ twelve.textContent = "Dia 12, sigo usando DOM, quizas olvide un ida xd";
 twelve.classList.add("twelve");
 doce.appendChild(twelve);
 
-const trece = querySelector("#trece");
+const trece = document.querySelector("#trece");
 const thirteen = document.createElement("p");
 thirteen.textContent = "Dia 13, aunque me sale varios dias, ya estoy algo mas de vuelta";
 trece.appendChild(thirteen);
 
-const catorce = querySelector('#catorce');
+const catorce = document.querySelector('#catorce');
 const fourteen = document.createElement("h3");
 fourteen.textContent = "Dia catorce, me he saltado varios porque ya no veo neccesaria esta rutina, pero intentare seguir";
 catorce.appendChild(fourteen);
+
+const quince = document.querySelector('#quince');
+const fifteen = document.createElement("h4");
+fifteen.textContent = "Dia 15, 15 15 15, pero ya no hago mucho, me volvi peresozo"
+quince.appendChild(fifteen);
