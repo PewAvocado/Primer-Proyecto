@@ -66,3 +66,8 @@ const quince = document.querySelector('#quince');
 const fifteen = document.createElement("h4");
 fifteen.textContent = "Dia 15, 15 15 15, pero ya no hago mucho, me volvi peresozo"
 quince.appendChild(fifteen);
+
+const dieciseis = document.querySelector("#dieciseis");
+const sixteen = document.createElement("h2");
+sixteen.textContent = "Dia 16, paso mucho tiempo pero ya estoy de vuelta, necesito mejorar mucho mis habilkidades de javascript, recordar leer todos los mensajes tambien";
+dieciseis.appendChild(sixteen);
