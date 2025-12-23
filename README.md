@@ -48,3 +48,6 @@ Estuve ocupado, pero ahora solo hare cosas de rutina, para recordar mas todo.
 
 05/12/2025
 Hubieron 2 dias donde olvide registrar, pero aun asi, debi de hacerlo, me volvi muy flojo con este estudio personal pero espero retomarlo pronto, al menos hacer estas adiciones diarias, solo para reforzar todo.
+
+23/12/2025
+Despues de casi 2 semanas vuelvo aca, no estuve ocupado, solo fui flojo y decidi no hacer , pero ahora volvere para ver que tanto recuerdo de las cosas.
