@@ -51,3 +51,11 @@ Hubieron 2 dias donde olvide registrar, pero aun asi, debi de hacerlo, me volvi 
 
 23/12/2025
 Despues de casi 2 semanas vuelvo aca, no estuve ocupado, solo fui flojo y decidi no hacer , pero ahora volvere para ver que tanto recuerdo de las cosas.
+
+01/01/2026
+NUEVO AÑO! feliz año, para mi mismo o si en algun momento alguien lo esta leyendo.
+Me gustaria colocar aqui algunas de las cosas o metas mas bien que quiero realizar en este inicio de año
+Quisiera concluir pronto todo lo referido a the odin project, ademas de que antes de concluir incluso, quiero postular a diferentes puestos de trabajar, de preferencia casi a inicios de marzo, en el cual yo ya considero tener los conocimientos suficientes para laborar en el mundo de la tecnologia.
+He tenido inicios algo lentos, he sido flojo y demas, pero siento que he retenido buenos conocimientos, sin mencionar que ya tengo un certificado de parte de isil.
+El dia de hoy iniciare practicando de manera diaria, asi se aal menos una hora al dia, para mejorar todo y poder estar mas confiado para laborar pronto.
+Eso seria todo por aca, oh y tambien dar la opcion que quizas deberia ahcer entradas de esto pero en ingles, asi quizas practique un poco mas el idioma.
