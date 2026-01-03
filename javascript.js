@@ -76,3 +76,9 @@ const diecisiete = document.querySelector("#diecisiete");
 const seventeen = document.createElement("h1");
 seventeen.textContent = "Dia 17!!1, pero mas que anada el dia 1 del año, y espero darlo con  todo, repasando mas y conseguir un empleo donde aplique mis habilidades!"
 diecisiete.appendChild(seventeen);
+
+const dieciocho = document.querySelector("#dieciocho");
+const eighteen = document.createElement("h2");
+eighteen.textContent = "Dia 18, ahora pues solo hice esto de rutina, mañana deberia continuar con el piedra papel o tijeras"
+eighteen.classList.add("siete");
+dieciocho.appendChild(eighteen);

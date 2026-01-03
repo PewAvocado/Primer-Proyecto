@@ -59,3 +59,8 @@ Quisiera concluir pronto todo lo referido a the odin project, ademas de que ante
 He tenido inicios algo lentos, he sido flojo y demas, pero siento que he retenido buenos conocimientos, sin mencionar que ya tengo un certificado de parte de isil.
 El dia de hoy iniciare practicando de manera diaria, asi se aal menos una hora al dia, para mejorar todo y poder estar mas confiado para laborar pronto.
 Eso seria todo por aca, oh y tambien dar la opcion que quizas deberia ahcer entradas de esto pero en ingles, asi quizas practique un poco mas el idioma.
+
+02/01/2026
+Bueno, esta entrada fue algo tardfe , pero quiero seguir con lo que me comprometi y la rutina, sobre todo jamas olvidar a usar el git y demas.
+Ahora creare un poco mas lo de javacript jeje
+
