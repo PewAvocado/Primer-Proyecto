@@ -67,3 +67,6 @@ Ahora creare un poco mas lo de javacript jeje
 03/01/2026
 El dia de hoy solo hare la entrada del readme, despues d etodo ya recuerdo muy bien lo de javascrip, aunque nuevamente debo de continuar con el peidra papel y tijeras
 
+04/01/2026
+Pues el dio de hoy si ya estoy empezando temprano, peisno repasar como minimo 1 hora, aunque lo ideal seria mas, nuevamente no hare lo de agregar mas cosas a js, porque ya me las se, los queryselector y demas jeje
+
