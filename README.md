@@ -64,3 +64,6 @@ Eso seria todo por aca, oh y tambien dar la opcion que quizas deberia ahcer entr
 Bueno, esta entrada fue algo tardfe , pero quiero seguir con lo que me comprometi y la rutina, sobre todo jamas olvidar a usar el git y demas.
 Ahora creare un poco mas lo de javacript jeje
 
+03/01/2026
+El dia de hoy solo hare la entrada del readme, despues d etodo ya recuerdo muy bien lo de javascrip, aunque nuevamente debo de continuar con el peidra papel y tijeras
+
